@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FootballPazl</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Салам бош фрагмент</string>
+    <string name="brazil_national_football_team">Бразилиянын футбол боюнча улуттук курама командасы</string>
+    <string name="international_football_federation">Эл аралык футбол федерациясы</string>
+    <string name="country">Өлкө:</string>
+    <string name="more_info">Көбүрөөк маалымат</string>
+    <string name="next">Кийинки</string>
+    <string name="germany">Германия</string>
+    <string name="w">В</string>
+    <string name="_1_0">1 : 0</string>
+    <string name="vs">VS</string>
+    <string name="spain">Испания</string>
+    <string name="team_rating">Команда рейтинги:</string>
+    <string name="team_squad">Команданын курамы</string>
+    <string name="replay">Кайра ойнотуу</string>
+    <string name="brazil_mozaic">Бразилия мозаикасы</string>
+</resources>

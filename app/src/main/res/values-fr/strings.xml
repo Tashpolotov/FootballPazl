@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FootballPazl</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="brazil_national_football_team">Équipe nationale de football du Brésil</string>
+    <string name="international_football_federation">Fédération internationale de football</string>
+    <string name="country">Pays:</string>
+    <string name="more_info">Plus d\'informations</string>
+    <string name="next">Suivant</string>
+    <string name="germany">Allemagne</string>
+    <string name="w">W</string>
+    <string name="_1_0">dix</string>
+    <string name="vs">CONTRE</string>
+    <string name="spain">Espagne</string>
+    <string name="team_rating"><![CDATA[Évaluation de l\'équipe :]]></string>
+    <string name="team_squad">Effectif de l\'équipe</string>
+    <string name="replay">Rejouer</string>
+    <string name="brazil_mozaic">Mosaïque du Brésil</string>
+</resources>

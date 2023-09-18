@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FutbolPazl</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="brazil_national_football_team">Brezilya milli futbol takımı</string>
+    <string name="international_football_federation">Uluslararası Futbol Federasyonu</string>
+    <string name="country">Ülke:</string>
+    <string name="more_info">Daha fazla bilgi</string>
+    <string name="next">Sonraki</string>
+    <string name="germany">Almanya</string>
+    <string name="w">K</string>
+    <string name="_1_0">1 : 0</string>
+    <string name="vs">VS</string>
+    <string name="spain">ispanya</string>
+    <string name="team_rating">Takım Değerlendirmesi:</string>
+    <string name="team_squad">Takım kadrosu</string>
+    <string name="replay">Tekrar oynat</string>
+    <string name="brazil_mozaic">Brezilya Mozaiği</string>
+</resources>
